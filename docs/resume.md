@@ -8,6 +8,17 @@ https://www.linkedin.com/in/kellypopko/ | https://github.com/kellyky
 
 ## Work Experience
 ### Software Engineer - Serta Simmons Bedding - 2022-2024
+- Played a key role in the migration of Tuft & Needle's in-house e-commerce storefront to Shopify, configuring various aspects of the Shopify store. Contributed to integrating a custom Backend with Shopify Frontend, facilitating transaction processing across online and physical retail channels.
+- Key contributor in an inter-departmental project streamlining DTC fulfillment, transitioning from custom integrations to a unified EDI-based ERP system.
+  - Played a vital role in critical project components, including Purchase Order creation and Advance Ship Notice processing.
+  - Acted as a subject matter expert in interdepartmental meetings, identifying and addressing gaps to ensure project success.
+  - Collaborated with leadership to allocate necessary resources and facilitated documentation creation, supporting efficient onboarding of new team members and providing comprehensive support to QA teams.
+- Supported 10+ product launches for 3 brands and multiple product types for both the customer-facing website and in-house ERP/backend app used by Customer Experience. Created and contributed to documentation for product launches, facilitating seamless handover to replacement teams.
+- Maintained an in-house Node app and Chrome extension, supporting Supply Chain stakeholders.
+- Championed user-centric development by identifying and escalating user concerns to management, initiating actionable Jira tickets to drive resolution and improve product usability.
+- Supported stakeholders by addressing prioritized feature requests, resolving bugs, and seeking clarification on requirements, ensuring alignment with project objectives and stakeholder needs.
+- Generated and maintained comprehensive documentation across multiple platforms (including Github README's, Confluence, Notion, and Jira), facilitating efficient knowledge transfer and promoting collaboration among team members.
+- Engaged in Agile sprint rituals, including sprint planning, grooming, retrospectives, and standup meetings, to collaborate with team members, refine project goals, assess progress, and adapt strategies for optimal project delivery.
 
 ### Software Quality Analyst - Serta Simmons Bedding - 2020-2022
 - Conducted cross-functional software testing with agile teams
