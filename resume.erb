@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Resume</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+  </head>
+  <body>
+    <%= render_partial('_contact') %>
+    <%= render_partial('_professional_summary') %>
+    <%= render_partial('_skills') %>
+    <%= render_partial('_certifications') %>
+
+    <h2 class="professional-experience">Professional Experience</h2>
+    <hr>
+
+    <h3 id="sertasimmons">SERTA SIMMONS BEDDING | Atlanta, GA (Fully Remote)</h3>
+    <p class="dates">09/2018 - 01/2024</p>
+
+    <%= render_partial('_software_engineer') %>
+    <%= render_partial('_quality_analyst') %>
+    <%= render_partial('_cx_partnership') %>
+
+    <h3 id="tuftandneedle">TUFT & NEEDLE | Phoenix, AZ (Fully Remote)</h3>
+    <p class="dates">05/2012 - 09/2018</p>
+
+    <%= render_partial('_cx_enablement') %>
+    <%= render_partial('_open_source') %>
+    <%= render_partial('_education') %>
+  </body>
+</html>
