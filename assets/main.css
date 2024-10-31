@@ -1,0 +1,31 @@
+body {
+  font-family: Calibri, Helvetica, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+ul#contact-info, #social {
+  list-style: none;
+  display: inline-block;
+}
+
+article{
+  background-color: lavender;
+  padding: 25px;
+  margin: 5px;
+  border-radius: 45px;
+}
+
+h2 {
+  text-transform: uppercase;
+  align: center;
+  margin: -5px;
+  padding: 5px;
+  align-content: center;
+}
+
+# Headline, Contact, Socials
+
+
