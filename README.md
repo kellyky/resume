@@ -1,5 +1,7 @@
 # About
-A page to host my resume. 📚 Ultimately to link on applications, linkedin, etc. 
+A page to host my [resume](https://kellyky.github.io/resume/resume.html)
+
+📚 Ultimately to link on applications, linkedin, etc. 
 
 The idea behind this modular format: Separation of concerns, making it easier to add content, iterate on content, and hopefully simpler to style.
 
